@@ -1,4 +1,4 @@
-
+# It takes 27 minutes 3 seconds
 # 4 4
 # 1 1 0
 # 1 1 1 1 

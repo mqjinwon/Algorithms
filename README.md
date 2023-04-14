@@ -1,19 +1,16 @@
 # Algorithms
 
+This repository contains implementations of various algorithms in different programming languages.
+
+I aim to solve algorithmic problems on websites like Softeer, uva, Baekjoon, and upload the solutions here.
+
 ## Table of Contents
 
 -   [Algorithms](#algorithms)
     -   [Table of Contents](#table-of-contents)
-    -   [About](#about)
     -   [Sites](#sites)
     -   [Contact](#contact)
     -   [TODO](#todo)
-
-## About
-
-This repository contains implementations of various algorithms in different programming languages.
-
-I aim to solve algorithmic problems on websites like Softeer, uva, Baekjoon, and upload the solutions here.
 
 ## Sites
 
